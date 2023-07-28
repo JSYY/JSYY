@@ -4,4 +4,4 @@
 - ⚡ C# / JavaScript / Java / C++
 - 🏃 Basktball / fitting
 
-![JSYY's GitHub stats](https://github-readme-stats.vercel.app/api?username=JSYY&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSYY&hide_progress=true&layout=compact)
